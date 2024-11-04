@@ -1,0 +1,20 @@
+body {
+    background-color: forestgreen;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#myButton {
+    font-size: 1.5em;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+#myLabel {
+    font-size: 1.5em;   
+}
+.myLabels {
+    font-size: 1.5em;
+}
+#myButton2 {
+    font-size: 1.5em;
+    padding: 5px 25px;
+    border-radius: 5px;
